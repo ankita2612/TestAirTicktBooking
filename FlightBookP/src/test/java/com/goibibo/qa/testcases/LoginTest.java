@@ -11,7 +11,7 @@ import com.goibibo.qa.pages.LoginPage;
 public class LoginTest extends TestBase {
 	
 	LoginTest loginTest;
-	//Created constructor of this page.
+	//Crreated constructor of this page.
 	public LoginTest() {
 		super();	//it will call super class constrcuor to call testbase class constructor.
 	}
